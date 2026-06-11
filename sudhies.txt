@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 vadachennai
 A proficient carrom player sets foot in the world of crime and joins forces with local gangsters to settle their feuds. However, he decides to take them down w
 
 hen they plan to wipe out his locality
+=======
+vadachennai 
+a film by vetrimaran
+>>>>>>> 49b8add58f120cd9932321e864256f13fa7f6734
